@@ -6,4 +6,5 @@ This example demonstrates real-time push-notifications from SignalR(v2) with loc
 1. Create, update or destroy items in the Grid below the Chart.
 
 The Grid is loaded in an IFRAME to simulate a remote client.
+try to fix 201607250519
 
