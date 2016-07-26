@@ -7,3 +7,5 @@ This example demonstrates real-time push-notifications from SignalR(v2) with loc
 
 The Grid is loaded in an IFRAME to simulate a remote client.
 
+Also tested in VS 2015
+
